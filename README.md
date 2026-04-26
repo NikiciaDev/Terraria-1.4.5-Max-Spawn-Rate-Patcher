@@ -12,8 +12,8 @@ Patches `Terraria.exe` to increase the maximum spawn rate multiplier in Journey 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/terraria-patch
-   cd terraria-patch
+   git clone https://github.com/NikiciaDev/Terraria-1.4.5-Max-Spawn-Rate-Patcher
+   cd Terraria-1.4.5-Max-Spawn-Rate-Patcher
    ```
 
 2. Install dependencies:
